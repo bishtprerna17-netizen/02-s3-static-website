@@ -44,7 +44,5 @@ Finally, I opened the AWS S3 endpoint link, and the website loaded perfectly!
 ![Website Live](./screenshots/06-website-live)<
 
 
-
-
 ---
 *Learning and building step-by-step!*
